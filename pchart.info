@@ -1,0 +1,8 @@
+<?php
+// $Id$
+$info = array(
+  'name' => 'pChart',
+  'description' => '封装 pChart',
+  'ver' => '1.0',
+  'language' => 'zh-hans',
+);
